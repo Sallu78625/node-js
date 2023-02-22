@@ -1,0 +1,23 @@
+{
+  "name": "stocx",
+  "version": "1.0.0",
+  "description": "stocx website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sallu78625/stocx.git"
+  },
+  "author": "salman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sallu78625/stocx/issues"
+  },
+  "homepage": "https://github.com/Sallu78625/stocx#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "nodemon": "^2.0.20"
+  }
+}
